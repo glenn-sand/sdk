@@ -25,7 +25,7 @@ To create a link to a page, the following URL structure is used:
 
 Browse to your database using this URL format
 
-`https://<my3.geotab.com>/<g560>/#devices`
+`https://my3.geotab.com/g560/#devices`
 
 Note: If you are not yet logged in, you will be prompted for your credentials.
 
